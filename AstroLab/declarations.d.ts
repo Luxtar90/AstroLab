@@ -1,1 +1,0 @@
-// Este archivo se utiliza para declarar tipos TypeScript globales que pueden ser utilizados en todo el proyecto.

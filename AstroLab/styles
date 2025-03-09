@@ -1,8 +1,0 @@
-/astroLab/styles/index.ts
-
-// Este archivo contiene estilos globales o temas para la aplicación. 
-// Puedes agregar tus estilos aquí utilizando CSS-in-JS, Styled Components, o cualquier otra metodología que prefieras. 
-
-export const globalStyles = {
-    // Define tus estilos globales aquí
-};
