@@ -112,4 +112,10 @@ Conéctate con otros desarrolladores interesados en la optimización de cálculo
 
 🚀 **¡Desarrolla con precisión y eficiencia con AstroLab!** 🧪
 
+---
+
+### ✍️ Desarrollado por
+**LUIGGI ANDREE ARTEAGA SANTANA**
+
+
 
