@@ -1,43 +1,46 @@
-# Bienvenido a tu aplicación Expo 👋
+# 📘 AstroLab - Aplicación para Cálculos de Soluciones Químicas
 
-Este es un proyecto [Expo](https://expo.dev) creado con [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**AstroLab** es una aplicación desarrollada con [Expo](https://expo.dev) que facilita el cálculo de soluciones químicas para laboratorios. Su objetivo es proporcionar herramientas eficientes y precisas para la preparación de reactivos, diluciones y ajustes de concentración en entornos de laboratorio.
 
-## Comenzar
+---
 
-1. Instalar dependencias
+## 🚀 Comenzar
 
-   ```bash
-   npm install
-   ```
+### 1️⃣ Instalar dependencias
+```bash
+npm install
+```
 
-2. Iniciar la aplicación
+### 2️⃣ Iniciar la aplicación
+```bash
+npx expo start
+```
 
-   ```bash
-   npx expo start
-   ```
-
-En la salida, encontrarás opciones para abrir la aplicación en:
-
-- [Desarrollo](https://docs.expo.dev/develop/development-builds/introduction/)
+Al iniciar, podrás ejecutar la aplicación en:
+- [Entornos de desarrollo](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Emulador de Android](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [Simulador de iOS](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), un entorno limitado para probar el desarrollo de aplicaciones con Expo
+- [Expo Go](https://expo.dev/go) para pruebas rápidas
 
-Puedes comenzar a desarrollar editando los archivos dentro del directorio **app**. Este proyecto utiliza [enrutamiento basado en archivos](https://docs.expo.dev/router/introduction).
+📂 **Puedes comenzar a desarrollar editando los archivos dentro del directorio `app/`**. Este proyecto utiliza [enrutamiento basado en archivos](https://docs.expo.dev/router/introduction/).
 
-## Obtener un proyecto nuevo
+---
 
-Cuando estés listo, ejecuta:
+## 🔄 Reiniciar el Proyecto
+
+Si deseas restaurar la configuración inicial del proyecto, ejecuta:
 
 ```bash
 npm run reset-project
 ```
 
-Este comando moverá el código de inicio al directorio **app-example** y creará un directorio **app** en blanco donde puedes comenzar a desarrollar.
+Esto moverá el código de inicio al directorio **app-example** y generará un nuevo directorio **app/** en blanco para comenzar desde cero.
 
-## Estructura del Proyecto
+---
 
-```
+## 📂 Estructura del Proyecto
+
+```plaintext
 AstroLab/
 ├── .gitignore
 ├── app.json
@@ -79,16 +82,34 @@ AstroLab/
 └── utils/
 ```
 
-## Aprender más
+---
 
-Para aprender más sobre el desarrollo de tu proyecto con Expo, consulta los siguientes recursos:
+## 🧪 Funciones Principales
 
-- [Documentación de Expo](https://docs.expo.dev/): Aprende los fundamentos o profundiza en temas avanzados con nuestras [guías](https://docs.expo.dev/guides).
-- [Tutorial de Expo](https://docs.expo.dev/tutorial/introduction/): Sigue un tutorial paso a paso donde crearás un proyecto que se ejecuta en Android, iOS y la web.
+✅ **Cálculo de Diluciones:** Facilita el ajuste de concentraciones para preparar soluciones precisas.  
+✅ **Preparación de Reactivos:** Ayuda a calcular las cantidades exactas de solutos y solventes.  
+✅ **Conversión de Unidades:** Soporta múltiples unidades de concentración y volumen.  
+✅ **Historial de Cálculos:** Guarda registros para facilitar el seguimiento y replicación de soluciones.  
 
-## Únete a la comunidad
+---
 
-Únete a nuestra comunidad de desarrolladores creando aplicaciones universales.
+## 📚 Aprender Más
 
-- [Expo en GitHub](https://github.com/expo/expo): Ve nuestra plataforma de código abierto y contribuye.
-- [Comunidad en Discord](https://chat.expo.dev): Chatea con usuarios de Expo y haz preguntas.
+Para conocer más sobre el desarrollo con Expo, revisa estos recursos:
+
+- [Documentación Oficial de Expo](https://docs.expo.dev/)
+- [Guías y Tutoriales](https://docs.expo.dev/guides)
+- [Tutorial de Expo](https://docs.expo.dev/tutorial/introduction/)
+
+---
+
+## 🌍 Únete a la Comunidad
+
+Conéctate con otros desarrolladores interesados en la optimización de cálculos químicos en laboratorios:
+
+🔗 [Expo en GitHub](https://github.com/expo/expo)  
+💬 [Comunidad de Expo en Discord](https://chat.expo.dev)  
+
+🚀 **¡Desarrolla con precisión y eficiencia con AstroLab!** 🧪
+
+
